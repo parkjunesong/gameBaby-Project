@@ -1,5 +1,12 @@
 파일 우클릭 -> {git bash here}
 
+변경사항 업로드)
 1. git add .
 2. git commit -m "내용"
 3. git push
+
+변경사항 받아오기)
+git pull
+
+처음부터 초기화)
+새폴더에 git clone (주소)
